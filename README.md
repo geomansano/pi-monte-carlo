@@ -60,10 +60,3 @@ The program outputs:
 hits: <points inside circle>
 Pi: <estimated value>
 ```
-
----
-
-## Author
-
-**Geovanne Mansano**
-GitHub: [geomansano](https://github.com/geomansano)
